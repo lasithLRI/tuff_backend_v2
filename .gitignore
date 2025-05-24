@@ -1,0 +1,6 @@
+backend_project.iml
+node_modules
+.idea
+backend_project.iml
+package-lock.json
+.env
